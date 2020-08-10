@@ -1,0 +1,30 @@
+.nav-item {
+  display: block;
+  padding: 3px 24px;
+  color: rgb(0, 0, 0) !important;
+  text-decoration: none;
+  cursor: pointer;
+  height: 58px;
+  margin-top: 15px;
+  text-align: centers;
+}
+
+.nav-item:hover {
+  background-color: #3262a8;
+  color: white ;
+  border-radius: 10px;
+  width:6rem;
+  height:2rem;
+  display: inline-block;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.navbar-nav {
+  margin-right: 10px;
+}
+
+.navbar {
+  height: 50px;
+
+  z-index: 1;
+}

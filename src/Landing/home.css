@@ -1,0 +1,156 @@
+#ima {
+    width: 950px;
+    height: 750px;
+    position: absolute;
+    z-index: -1;
+    top: 38px;
+    right: -135px;
+    padding: 20px;
+    opacity: 0.8;
+  }
+
+  #ima1 {
+    width: 950px;
+    height: 750px;
+    position: absolute;
+    z-index: -1;
+    top: 38px;
+    right: -60px;
+    padding: 20px;
+    opacity: 0.8;
+  }
+
+  
+  #ima2 {
+    /* width: 950px;
+    height: 750px; */
+    position: absolute;
+    z-index: -1;
+    top: 750px;
+    left: -20px;
+    padding: 20px;
+    opacity: 0.8;
+  }
+  
+.texta {
+    /* text-align: center; */
+    position: absolute;
+    left: 7.5%;
+    top: 40%;
+    color: black;
+    /* font-weight: bold; */
+    font-weight: 300;
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: left;
+    line-height: 2rem;
+
+  }
+.texta span{
+    text-align: left;
+}
+.texta h2{
+    font-weight: 300;
+}
+
+.texta1 {
+    text-align: center;
+    position: absolute;
+    left: 25%;
+    top: 110%;
+    color: black;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: "Roboto";
+    line-height: 2rem;
+  }
+  
+#ima3{
+    /* width: 950px;
+    height: 750px; */
+    position: absolute;
+    z-index: -1;
+    top: 1100px;
+    left: 30px;
+    padding: 20px;
+    opacity: 0.8;
+}
+
+#ima4{
+    /* width: 950px;
+    height: 750px; */
+    position: absolute;
+    z-index: -1;
+    top: 1300px;
+    right: -40px;
+    padding: 20px;
+    opacity: 0.8;
+}
+#ima5{
+    /* width: 950px;
+    height: 750px; */
+    position: absolute;
+    z-index: -1;
+    top: 1700px;
+    right: -40px;
+    padding: 20px;
+    opacity: 0.8;
+}
+#ima6{
+    /* width: 950px;
+    height: 750px; */
+    position: absolute;
+    z-index: -1;
+    bottom: -1250px;
+    left: -35px;
+    padding: 20px;
+    opacity: 0.8;
+}
+
+#Ellipse_3,#Path_71{
+    mix-blend-mode: multiply;
+    isolation: isolate;
+}
+
+.texta2{
+    text-align: left;
+    position: absolute;
+    left: 50%;
+    top: 145%;
+    color: black;
+    /* font-weight: bold; */
+    font-size: 20px;
+    
+    font-weight: 300;
+    line-height: 2rem;
+    font-family: "Roboto";
+}
+.texta3{
+    text-align: left;
+    position: absolute;
+    left: 35%;
+    top: 210%;
+    color: black;
+    /* font-weight: bold; */
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 2rem;
+    font-family: "Roboto";
+
+}
+
+#tit{
+    font-weight: 300;
+}
+
+.texta4{
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    top: 240%;
+    color: black;
+    font-weight: 300;
+    font-size: 10px;
+    font-family: "Roboto";
+    line-height: 2rem;
+}
